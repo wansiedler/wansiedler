@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm Alex 👋
+
+🌱 I’m currently learning:
+Solidity/Web3
+
+My tech stack
+Docker Kubernetes Redis GitHub GitLab CircleCI MUI JavaScript TypeScript React C Django Python Celery
+
+[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e54757237586c56445564714d2f67697068792e676966](https://camo.githubusercontent.com/1b733793b67e0e2f2e5a0085dbabbf03d4ee459ce981126c8243a72bf22c7b4d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e54757237586c56445564714d2f67697068792e676966)
