@@ -22,7 +22,7 @@ Hi there, I'm Alex 👋
 
 📫 How to reach me:
 - telegram: @apwansiedler
-- [https://www.linkedin.com/](https://www.linkedin.com)
+- [[https://www.linkedin.com/](https://www.linkedin.com)](https://www.linkedin.com/in/alexander-paul-wansiedler/)
 
 #### My tech stack
 ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
