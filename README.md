@@ -25,9 +25,9 @@ I am a developer, technical consultant and ex CTO with over +10 years of progres
 I code everything that can be scripted, compiled or used as a micro service or a blockchain solidity ERC20-based smart contract.
 
 I love:
-- my family
-- Typescript, Node.js
-- Python/Django
+- my family and team
+- Typescript, React/Vue/Angular, Node.js
+- Python/Django/FastAPI
 - PHP/Symfony
 - Kubernetes (AWS, GC)
 - Gitlab CI/CD 
