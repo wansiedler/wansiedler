@@ -48,8 +48,6 @@ My 🎖️&goals:
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
-- Java SE 8 Oracle Certified Associate (OCA)
-
 🌱 I’m currently learning:
 - Solidity/Web3
 - ERC-20 with Truffles🥰 and Vyper
