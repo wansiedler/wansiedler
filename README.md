@@ -20,7 +20,7 @@ I speak English, German, Russian, French, Italian, Spanish and some Chinese.
 
 I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express, Python/Django/Flask/FastAPI.
 
-I am a developer, technical consultant and ex CTO with over +10 years of progressively challenging technical successes in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross functions in achieving superior results.
+I am a developer, technical consultant and ex CTO with over +15 years of progressively challenging technical successes in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross functions in achieving superior results.
 
 I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart contract.
 
