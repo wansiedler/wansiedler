@@ -53,8 +53,8 @@ My 🎖️&goals:
 - ERC-20 with Truffles🥰 and Vyper
 
 📫 How to reach me:
-- telegram: [apwansiedler](https://t.me/apwansiedler)
-- https://www.linkedin.com/in/alexander-paul-wansiedler/
+- telegram: [wansiedler](https://t.me/wansiedler)
+- https://www.linkedin.com/in/wansiedler/
 - https://wansiedler.com/
 
 #### My tech stack
