@@ -67,8 +67,8 @@ contract.
 ---
 
 🌱 I’m currently learning:
-- Solidity/Web3
-- ERC-20 with Truffles🥰 and Vyper
+- Solidity/Vyper
+- ERC-20 with Truffles🥰/Hardhat
 
 📫 How to reach me:
 - telegram: [wansiedler](https://t.me/wansiedler)
