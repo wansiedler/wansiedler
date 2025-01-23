@@ -18,7 +18,9 @@ Hi there, I'm Alex 👋
 
 I speak English, German, Russian, French, Italian, Spanish and some Chinese.
 
-I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express, Python/Django/Flask/FastAPI.
+I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express/fastify, Python/Django/Flask/FastAPI.
+I am fluent in DevOps/Gitops dialects, in love&hate relationship with Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it. 
+I feel grate working with Terraform&Ansible within AWS and GCP envs.
 
 I am a developer, technical consultant and ex CTO with over +15 years of progressively challenging technical successes
 in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross
@@ -29,27 +31,26 @@ contract.
 
 #### I ❤️:
 
-- my family and team
-- Typescript, Node.js
-- Solidity, web3.js/ethers
-- Python/Django
-- PHP/Symfony
-- Kubernetes (AWS, GC)
-- Gitlab CI/CD
-- Shell programming
-- GraphQL
-- MySQL/pgSQL/MongoDB
-- DevOps and all around
+- My Family and Team
+- Kubernetes: Advanced cluster design, monitoring, and troubleshooting.
+- DevOps & GitOps Tools: ArgoCD, Flux, and automated deployment strategies.
+- Infrastructure as Code: Crossplane, Terraform, AWS CDK, and CloudFormation with Docker.
+- Scripting Languages: Python, Bash, Go, JS/TS, enhancing automation pipelines.
+- CI/CD Expertise: GitLab CI/CD, Jenkins, and GitLab/GitHub Actions.
+- Cloud Platforms: Extensive experience with AWS, GCP, and Azure.
+- Monitoring: Hands-on with Prometheus, Grafana, and ELK Stack.
+- TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM, 
+- React (Solid.js, Redux, Zustand)/Angular (NgRx)/Vue.js (Vuex, Pinia), TDD (with jest, cypress, playwright),
+- Python with FastAPI, Django, Apache Kafka, Redis, PostgreSQL, MySQL, ElasticSearch, S3, Firebase, Golang with Gin/Echo, PHP in Symfony/Laravel/Zend
+- Languages: German (native), English (certified C1), Chinese (certified B1)
 
 #### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)jek
 
-
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
-
 
 - Certified Professional in Python Programming 1 (PCPP1™)
 - Certified Associate in Python Programming (PCAP™)
