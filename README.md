@@ -14,20 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Alex 👋
+Hi there, I’m Alex 👋
 
 I speak English, German, Russian, French, Italian, Spanish and some Chinese.
 
-I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express/fastify, Python/Django/Flask/FastAPI.
-I am fluent in DevOps/Gitops dialects, in love&hate relationship with Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it. 
-I feel grate working with Terraform&Ansible within AWS and GCP envs.
+I also speak Rust for WebAssembly/Solana/Ethereum, TypeScript for React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express/fastify and Python for Django/Flask/FastAPI.
 
-I am a developer, technical consultant and ex CTO with over +15 years of progressively challenging technical successes
-in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross
-functions in achieving superior results.
+React Native (Kotlin and Swift in progress) is my go-to for mobile development.
 
-I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart
-contract.
+I am in love/hate relationship with C/C++ and Rust❤️. When I feel particularly nerdy I code haskell and lisp, play chess.
+
+I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it. I feel grate working with Terraform&Ansible within AWS and GCP envs.
+
+I am a developer, technical consultant and ex CTO with over +15 years of progressively challenging technical successes in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross functions in achieving superior results.
+
+I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart contract.
 
 #### I ❤️:
 
