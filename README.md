@@ -1,13 +1,15 @@
- 
+
 Hi there, I'm Alex 👋
 
-I speak English, German, Russian, French, Italian, Spanish and some Chinese.
+I speak Data Structures & Algorithms, English, German, Russian, French, Italian, Spanish and some Chinese.
 
-I am fluent in TypeScript for Node.js/Express/Fastify and React/Next.js. Angular, Vue.js/Nuxt.js
-and Python for Django/Flask/FastAPI.
+I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js. Angular/Universal, Vue.js/Nuxt.js.
+Python for Django/Flask/FastAPI. Go for gin/echo.
 
 I also speak Rust for:
+
 - WebAssembly
+- Warp / Actix / Rocket
 - Ethereum with openzeppelin (Solidity/Vyper, foundry/truffle/hardhat):
   - Arbitrum with stylus
   - Reth for L2 Optimism / Polygon / Binance Smart Chain / StarkNet etc.
@@ -19,13 +21,15 @@ I also speak Rust for:
 - Near
 - Polkadot
 - TON (Telegram Open Network)
+- extensive expertise in Telegram bots programming
 
 React Native/Expo and Flutter (Kotlin and Swift in progress) are my go-to for mobile development.
 
-I am in love/hate relationship with C/C++ and FreeBSD❤️. When I feel particularly nerdy I code Haskell and Lisp, play chess.
+I am in a love/hate relationship with C/C++ and FreeBSD❤️.
+When I feel particularly nerdy I code Haskell and Lisp, play chess, spend a lifetime on Leetcode/HackerRank leveling up my score and kitesurf in Alps (Cabrinha Contra 17).
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
-I feel great working with Terraform & Ansible within AWS and GCP envs.
+I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 I am a developer, technical consultant and ex-CTO with over 15 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
@@ -65,6 +69,7 @@ and lead teams to do the same.
 #### 🌱 I’m currently learning:
 
 - Pytorch
+- opencv
 
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200" alt="this is fine" />
@@ -148,5 +153,7 @@ and lead teams to do the same.
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
-[//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"> <img class="repo-img-light w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"> <img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"> </a>')
-[//]: # ('<img class="repo-img-dark" alt="wansiedler" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=6">')
+[//]: # '<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>'
+[//]: # '<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">'
+[//]: # '<a href="https://leetcode.com/u/wansiedler/" rel="external nofollow noopener" target="_blank"></a>'
+ 
