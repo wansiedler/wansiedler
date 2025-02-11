@@ -1,7 +1,7 @@
 
 Hi there, I'm Alex 👋
 
-I speak Data Structures & Algorithms, English, German, Russian, French, Italian, Spanish and some Chinese.
+I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js. Angular/Universal, Vue.js/Nuxt.js.
 Python for Django/Flask/FastAPI. Go for gin/echo.
