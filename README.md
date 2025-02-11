@@ -163,11 +163,3 @@ and lead teams to do the same.
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
 <br/>
 <div style="text-wrap: wrap;text-align: center;">BTC bc1q3ectt0sl8gaqzps2w3l3tp8mft9nlypcrznd3n</div>
-
-
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
-
-[//]: # '<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>'
-[//]: # '<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">'
-[//]: # '<a href="https://leetcode.com/u/wansiedler/" rel="external nofollow noopener" target="_blank"></a>'
- 
