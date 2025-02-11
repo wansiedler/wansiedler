@@ -3,8 +3,8 @@ Hi there, I'm Alex 👋
 
 I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
 
-I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js. Angular/Universal, Vue.js/Nuxt.js.
-Python for Django/Flask/FastAPI. Go for gin/echo.
+I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js/Angular/Universal, Vue.js/Nuxt.js.
+Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
 
 I also speak Rust for:
 
@@ -31,7 +31,7 @@ When I feel particularly nerdy I code Haskell and Lisp, play chess, spend a life
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
-I am a developer, technical consultant and ex-CTO with over 15 years of progressively challenging technical successes
+I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
 
 I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
@@ -68,11 +68,10 @@ and lead teams to do the same.
 
 #### 🌱 I’m currently learning:
 
-- Pytorch
-- opencv
+- Computer Vision in Pytorch/Keras & opencv
 
 <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200" alt="this is fine" />
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
 </div>
  
 ---
@@ -150,6 +149,21 @@ and lead teams to do the same.
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
+
+<br/>
+
+[//]: # '<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>'
+[//]: # '<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">'
+[//]: # '<a href="https://leetcode.com/u/wansiedler/" rel="external nofollow noopener" target="_blank"></a>'
+
+<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
+<br/>
+<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
+<br/>
+<div style="text-wrap: wrap;text-align: center;">BTC bc1q3ectt0sl8gaqzps2w3l3tp8mft9nlypcrznd3n</div>
+
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
