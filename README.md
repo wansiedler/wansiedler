@@ -1,9 +1,23 @@
 
-Hi there, I'm Alex 👋
+Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
 
-I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
+What are my core skills? 🎯
 
-I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js/Angular/Universal, Vue.js/Nuxt.js.
+✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go \
+✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
+✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
+✔ Mentorship/Codereview/Techleading/Projectmanagement\
+✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
+✔ Experience in process transformation and architecture migration\
+✔ Experience in creating and supporting SaaS solutions
+
+---
+
+Who am I?
+
+I speak Data Structures & Algorithms, English, German, Russian and Chinese.
+
+I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
 
 I also speak Rust for:
@@ -23,13 +37,15 @@ I also speak Rust for:
 - TON (Telegram Open Network)
 - extensive expertise in Telegram bots programming
 
-React Native/Expo and Flutter (Kotlin and Swift in progress) are my go-to for mobile development.
+React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
 
-I am in a love/hate relationship with C/C++ and FreeBSD❤️.
-When I feel particularly nerdy I code Haskell and Lisp, play chess, spend a lifetime on Leetcode/HackerRank leveling up my score and kitesurf in Alps (Cabrinha Contra 17).
+I am in a love/hate relationship with C/C++ and FreeBSD.
+When I feel particularly nerdy I code Haskell and Lisp.
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
+
+---
 
 I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
@@ -37,26 +53,31 @@ in diversified, cutting-edge technologies with demonstrated and proven ability t
 I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
 
+---
+
 #### I ❤️:
 
 - My Family and Team
 - TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM/Drizzle,
-- Ethers.js with React (Solid.js, Redux, Zustand)/Angular (NgRx)/Vue.js (Vuex, Pinia), TDD (with jest, cypress, playwright),
-- Python with FastAPI/Django/Flask, Celery, and SQLAlchemy.
-- Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
+- Ethers.js with React(Solid.js, Redux, Zustand)+Next/Angular (NgRx)/Vue.js(Vuex, Pinia)/Quasar, TDD (with jest, cypress, playwright)
+- Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
 - Golang with Gin/Echo, PHP in Symfony/Laravel/Zend
-- Kubernetes: Advanced cluster design, monitoring, and troubleshooting.
-- DevOps/GitOps Tools: ArgoCD, Flux, and automated deployment strategies.
-- Infrastructure as Code: Crossplane, Terraform, AWS CDK, and CloudFormation with Docker.
-- CI/CD Expertise: GitLab CI/CD, Jenkins, and GitLab/GitHub Actions.
-- Cloud Platforms: Extensive experience with AWS, GCP, and Azure.
-- Monitoring: Hands-on with Prometheus, Grafana, and ELK Stack.
+- Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
+- Kubernetes: Advanced cluster design, monitoring and troubleshooting
+- DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
+- Infrastructure as Code: Crossplane, Terraform, AWS CDK and CloudFormation with Docker
+- CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
+- Cloud Platforms: Extensive experience with AWS, GCP and Azure
+- Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
 - Languages: German (native), English (native), Chinese (certified B1)
+
+---
 
 #### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Security Specialist (CKS)
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -66,17 +87,32 @@ and lead teams to do the same.
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
-#### 🌱 I’m currently learning:
+- Oracle Certified Associate Java SE 8 Programmer
+
+[//]: # "- Certified Kubernetes Security Specialist (CKS)"
+[//]: # "- AWS Certified Solutions Architect - Associate"
+[//]: # "- AWS Certified Data Engineer - Associate"
+[//]: # "- AWS Certified Developer - Proffessional"
+[//]: # "- AWS Certified SysOps Administrator - Associate"
+[//]: # "- AWS Certified DevOps Engineer - Professional"
+[//]: #
+[//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
+
+- Microsoft Azure Fundamentals AZ-900
+
+---
+
+#### I’m currently learning:
 
 - Computer Vision in Pytorch/Keras & opencv
 
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
 </div>
- 
+
 ---
 
-#### My tech stack 🛠️:
+#### My 🛠️:
 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -152,14 +188,26 @@ and lead teams to do the same.
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
-<br/>
+---
 
-[//]: # '<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>'
-[//]: # '<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">'
-[//]: # '<a href="https://leetcode.com/u/wansiedler/" rel="external nofollow noopener" target="_blank"></a>'
+[//]: # "stars,commits,prs,issues,"
+[//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true&hide=contribs"></a>')
+[//]: # ('<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">')
+[//]: # "[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wansiedler)](https://github.com/wansiedler/github-readme-stats)"
 
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
-<br/>
-<div style="text-wrap: wrap;text-align: center;">BTC bc1q3ectt0sl8gaqzps2w3l3tp8mft9nlypcrznd3n</div>
+
+---
+
+<div style="margin: 0 auto;text-align: justify; display: flex; flex-direction: column; align-items: center; align-content: flex-start; justify-content: left">
+<div>All currencies in the following chains are accepted:</div>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1qcpjqk9ymzfpswekzq6huxmcxmyf8td5xyrkcmh</div>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC/BASE/POLYGON 0xbdf6147755e03e8Ea409E6808bA66529A057F670</div>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">SOL 7haHrLysBuFQNmLNxfnmjTVw4mZzcHEp5e1X5YpnY5PL</div>
+</div>
+
+---
+
+[//]: # '<img alt="Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:15%;display: block;margin: 0 auto">!'
