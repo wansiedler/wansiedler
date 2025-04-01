@@ -1,5 +1,5 @@
 
-Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
+Hi there, I'm Alex 👋 (<a href="https://linktr.ee/wansiedler">my linktree</a>)
 
 What are my core skills? 🎯
 
