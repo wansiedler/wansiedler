@@ -1,10 +1,14 @@
 
-Hi there, I'm Alex 👋 (<a href="https://linktr.ee/wansiedler">my linktree</a>)
+---
 
-What are my core skills? 🎯
+# What are my core skills? 🎯
 
-✔ 13+ years in TS/Node.js (JS since 2001), 8+ in Go, 7+ in Rust/Solidity, 20+ in Python, PHP/SQL/C/C++ since 2003 \
-✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
+✔ 13+ years in TS/Node.js (JS since 2001), \
+✔ 5+ in Go, \
+✔ 7+ in Rust/Solidity, \
+✔ 20+ in Python, \
+✔ PHP/SQL/C/C++ since 2003 \
+✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
@@ -13,39 +17,23 @@ What are my core skills? 🎯
 
 ---
 
-Who am I?
+### Who do I do?
 
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
-
-I also speak Rust for:
-
-- WebAssembly
-- Warp / Actix / Rocket
-- Ethereum with openzeppelin (Solidity/Vyper, foundry/truffle/hardhat):
-  - Arbitrum with stylus
-  - Reth for L2 Optimism / Polygon / Binance Smart Chain / StarkNet etc.
-- Solana (with mucho, anchor, fuzz, zest)
-- Aptos (move SDK)
-- SUI
-- Fantom
-- Flow
-- Near
-- Polkadot
-- TON (Telegram Open Network)
-- extensive expertise in Telegram bots programming
-
-React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
-
-I am in a love/hate relationship with C/C++ and FreeBSD.
-When I feel particularly nerdy I code Haskell and Lisp.
+Python for Django/Flask/FastAPI.
+Go Fiber for gRPC.
+Java for Spring Boot/Micronaut, Groovy with Grails.
+Ruby for RoR.
+PHP for Symfony.
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ---
+
+### Who am I?
 
 I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
@@ -61,7 +49,7 @@ and lead teams to do the same.
 - TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM/Drizzle,
 - Ethers.js with React(Solid.js, Redux, Zustand)+Next/Angular (NgRx)/Vue.js(Vuex, Pinia)/Quasar, TDD (with jest, cypress, playwright)
 - Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
-- Golang with Gin/Echo, PHP in Symfony/Laravel/Zend
+- Golang with Gin/Echo/Fiber, PHP in Symfony/Laravel/Zend
 - Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
 - Kubernetes: Advanced cluster design, monitoring and troubleshooting
 - DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
@@ -69,7 +57,6 @@ and lead teams to do the same.
 - CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
 - Cloud Platforms: Extensive experience with AWS, GCP and Azure
 - Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
-- Languages: German (native), English (native), Chinese (certified B1)
 
 ---
 
@@ -78,6 +65,10 @@ and lead teams to do the same.
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
 - Certified Kubernetes Security Specialist (CKS)
+
+- RHCSA (Red Hat Certified System Administrator)
+- RHCE (Red Hat Certified Engineer)
+- Red Hat Certified Specialist in Ansible Automation
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -89,26 +80,10 @@ and lead teams to do the same.
 
 - Oracle Certified Associate Java SE 8 Programmer
 
-[//]: # "- Certified Kubernetes Security Specialist (CKS)"
-[//]: # "- AWS Certified Solutions Architect - Associate"
-[//]: # "- AWS Certified Data Engineer - Associate"
-[//]: # "- AWS Certified Developer - Proffessional"
-[//]: # "- AWS Certified SysOps Administrator - Associate"
-[//]: # "- AWS Certified DevOps Engineer - Professional"
-[//]: #
-[//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
+- AWS Certified Developer - Proffessional"
+
 
 - Microsoft Azure Fundamentals AZ-900
-
----
-
-#### I’m currently learning:
-
-- Computer Vision in Pytorch/Keras & opencv
-
-<div style="text-align: center;">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
-</div>
 
 ---
 
