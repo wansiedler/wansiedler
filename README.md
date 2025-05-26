@@ -3,17 +3,13 @@
 
 # What are my core skills? 🎯
 
-✔ 13+ years in TS/Node.js (JS since 2001), \
-✔ 5+ in Go, \
-✔ 7+ in Rust/Solidity, \
-✔ 20+ in Python, \
-✔ PHP/SQL/C/C++ since 2003 \
-✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
-✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
+✔ Distributed high load (with Go/Node/Python/PHP/Java ) in K8s clusters\
+✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
+✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
+✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
-✔ Experience in process transformation and architecture migration\
-✔ Experience in creating and supporting SaaS solutions
+✔ Experience in process transformation and architecture migration & SaaS solutions
 
 ---
 
