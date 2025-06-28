@@ -15,7 +15,7 @@
 
 ### Who do I do?
 
-I speak Data Structures & Algorithms, English, German, Russian and Chinese.
+I speak Data Structures & Algorithms, German, English, and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI.
