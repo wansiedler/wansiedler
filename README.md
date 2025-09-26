@@ -13,9 +13,9 @@
 
 ---
 
-### Who do I do?
+### What do I do?
 
-I speak Data Structures & Algorithms, German, English, and Chinese.
+I speak German, English, and Chinese, and have a strong command of data structures & algorithms.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI.
@@ -24,7 +24,7 @@ Java for Spring Boot/Micronaut, Groovy with Grails.
 Ruby for RoR.
 PHP for Symfony.
 
-I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
+I am fluent in DevOps/Gitops practices, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ---
@@ -76,7 +76,7 @@ and lead teams to do the same.
 
 - Oracle Certified Associate Java SE 8 Programmer
 
-- AWS Certified Developer - Proffessional"
+- AWS Certified Developer - Professional"
 
 
 - Microsoft Azure Fundamentals AZ-900
