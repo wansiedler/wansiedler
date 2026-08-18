@@ -4,7 +4,11 @@
   <a href="https://wansiedler.com/"><img alt="Website" src="https://img.shields.io/badge/My-Website-333333.svg?style=flat-square" /></a>
   <a href="https://linktr.ee/wansiedler"><img alt="Links" src="https://img.shields.io/badge/All-Links-maroon.svg?style=flat-square" /></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=wansiedler&hide_longest_streak=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true&theme=dark" />
+  </picture>
 </p>
 
 ---
